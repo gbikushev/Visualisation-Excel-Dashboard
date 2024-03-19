@@ -35,13 +35,13 @@ We worked on this data using Microsoft Excel out of the provided data visualizat
 4) Profession such as Design & thinking, Business Operation and Data driven field are three topmost field they want to pursue career and stick to it for more than 3 years. 
 
 ### Findings from Gleb work
-1) The gender of people of generation-Z in India does slightly affect the preferred number of people in the team they would like to work in: even though both males and females mainly prefer to work in small teams, with the highest preference being for group of 5 to 6 people (31.6% males, 31.37% females), the least preferred option for males and females is not the same: it's "mid-size team" (7 to 10 people) for males and "big team" (More than 10) for females. 
+1) Both males and females of Generation-Z in India prefers to work in small teams with 5-6 people, while the least preferred option for males is "7 to 10 people" for and "More than 10 people" for females.
 
-2) There are some differences in preferences for the type of working environment between genders of people of generation-Z in India: noticeably outweighing and the most preferred option for females is "Fully Remote with Options to travel as and when needed" (28.10%), while options "Fully Remote with Options to travel as and when needed" and "Hybrid Working Environment with less than 15 days (about 2 weeks) a month at office" are equally preferred for males (26.02%) 
+2) Generation-Z in India mainly prefers the working environment "Fully Remote with Options to travel as and when needed". 
 
-3) The gender of people of generation-Z in India does affect the type of learning environment that people are most likely to work in: even though the most preferred learning environment for males and females are the same, second most preferred learning environment differs: it is " Self-Paced Learning Portals" for Males and "Learning by observing others" for Females. 
+3) As for learning environment, Generation-Z in India prefers "Instructor or Expert Learning Programs".
 
-4) The gender of people of generation-Z in India does not significantly affect the preferred type of Employer they would like to work with. Strongly outweighing and the most preferred option for both Males and Females is "Learning and Rewards". 
+4) Both males and females of Generation-Z in India prefer to work with employer who enables a learning environment and rewards you at the end. 
 
 ### Findings from Emmanuel work
 1) Parents are the most influential factor for both the genders for deciding their career. In terms of least for the gender it is social media. 
