@@ -9,11 +9,7 @@ This is the repository to store all the necessary files that show the work was c
 - Report
 
 ## Project Summary
-The so-called Generation Z will soon overtake Millennials (Generation Y) as the largest and most a number generation on planet Earth, with over a third of the global population identifying as Gen Zers. As Gen Zers prepare to enter the global stage, the consequences will be immediate and deep, with repercussions in job roles, commercial consumption, science and technology, politics, and society. Unlike Generation Y, this generation of people has a completely different outlook on employment and how they measure achievement throughout life and the workplace.  
-
-To become more familiar with the issues faced by this growing workforce and their consequences on companies and the workplace this project aims on such related problems.  
-
-As we learn about the interests and behaviors of our newest workforce members, we must also consider how "work" is changing and evolving. The new realities created by these engines of change raise complex challenges, such as the ethics of human-machine partnership, how to prepare for 50–60-year professions, and the way we liberate companies over an endless variety of talent sources. 
+Generation Z is set to surpass Millennials as the largest generation globally, impacting job roles, commercial consumption, science, technology, politics, and society. This generation has a different outlook on employment and achievement. The project aims to understand the challenges faced by this growing workforce, including the ethics of human-machine partnership, preparing for 50-60-year professions, and leveraging diverse talent sources.
 
 ## Data Source
 The dataset obtained from Kaggle which revolves around the career aspirations of Gen-Z and has about 2634 rows and 15 fields of information collected as a form of a Survey, primarily from India and few other countries as well.
