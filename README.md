@@ -1,6 +1,8 @@
 # Career Aspiration of Gen Z 
 This is the repository to store all the necessary files that show the work was completed within our group CA1 for creating interactive dashboards in MS Excel.
 
+**Author: Gleb Bikushev**
+
 ## Repository structure
 - folder Gleb: to store Gleb's Excel file with dashboard and Diary
 - folder Sunny: to store Sunny's Excel file with dashboard and Diary
@@ -47,6 +49,15 @@ We worked on this data using Microsoft Excel out of the provided data visualizat
 1) Parents are the most influential factor for both the genders for deciding their career. In terms of least for the gender it is social media. 
 
 2) If right company is available then both male and female would like to work on company for more than 3 years. 
+
+## Screenshots of the Excel Dashboards:
+### Gleb's dashboard (mine):
+**RQ: how does gender affect the working and learning environments of people of generation Z in India?**
+
+![Example Image](images/1.png)
+
+### Sunny's dashboard:
+![Example Image](images/2.png)
 
 ## Future work
 1) As we learn about the career aspirations and preferences of generation Z, we also must consider how companies are altering and transforming to meet these wishes of young employees. That is why, future work might include the analysis of dataset that covers this companies' transformation.​
