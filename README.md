@@ -4,9 +4,7 @@ This is the repository to store all the necessary files that show the work was c
 **Author: Gleb Bikushev**
 
 ## Repository structure
-- folder Gleb: to store Gleb's Excel file with dashboard and Diary
-- folder Sunny: to store Sunny's Excel file with dashboard and Diary
-- folder Emmanuel: to store Emmanuel's Excel file with dashboard and Diary
+- folder Gleb: to store my Excel file with dashboard
 - Presentation
 - Report
 
@@ -26,16 +24,6 @@ After data cleaning, a set of research questions were formed to obtain the insig
 
 We worked on this data using Microsoft Excel out of the provided data visualization tools. For analyzing the data Pivot Tables were utilized extensively and graph were used from Pivot chart.
 
-## Findings  
-### Findings from Sunny work
-1) Almost 50% of the Gen Z wants to study aboard 
-
-2) In terms of working environment Gen Z preferred fully remote with travel option by both male and females. Their least preferred is the fully remote.  
-
-3) For Gen Z to work on companies having no social impact they are not sure about it although they are inclined towards not joining such companies. 
-
-4) Profession such as Design & thinking, Business Operation and Data driven field are three topmost field they want to pursue career and stick to it for more than 3 years. 
-
 ### Findings from Gleb work
 1) Both males and females of Generation-Z in India prefers to work in small teams with 5-6 people, while the least preferred option for males is "7 to 10 people" for and "More than 10 people" for females.
 
@@ -45,19 +33,11 @@ We worked on this data using Microsoft Excel out of the provided data visualizat
 
 4) Both males and females of Generation-Z in India prefer to work with employer who enables a learning environment and rewards you at the end. 
 
-### Findings from Emmanuel work
-1) Parents are the most influential factor for both the genders for deciding their career. In terms of least for the gender it is social media. 
-
-2) If right company is available then both male and female would like to work on company for more than 3 years. 
-
 ## Screenshots of the Excel Dashboards:
 ### Gleb's dashboard (mine):
 **RQ: how does gender affect the working and learning environments of people of generation Z in India?**
 
 ![Example Image](images/1.png)
-
-### Sunny's dashboard:
-![Example Image](images/2.png)
 
 ## Future work
 1) As we learn about the career aspirations and preferences of generation Z, we also must consider how companies are altering and transforming to meet these wishes of young employees. That is why, future work might include the analysis of dataset that covers this companies' transformation.​
