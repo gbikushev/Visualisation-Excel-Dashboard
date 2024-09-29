@@ -1,5 +1,5 @@
 # Career Aspiration of Gen Z 
-This is the repository to store all the necessary files that show the work was completed within our group CA1 for creating interactive dashboards in MS Excel.
+This is the repository to store all the necessary files that show the work was completed within project for interactive dashboards in MS Excel.
 
 **Author: Gleb Bikushev**
 
